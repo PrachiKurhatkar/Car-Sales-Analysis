@@ -26,7 +26,7 @@ This **interactive Power BI dashboard** provides deep insights into **car sales 
 
 ## 🚀 How to Use
 1. **Clone the Repository:**
-   git clone https://github.com/yourusername/car-sales-analysis-powerbi.git
+   (https://github.com/PrachiKurhatkar/Car-Sales-Analysis)
    
 3. **Open the `.pbix` file** in **Power BI Desktop**.
 4. **Explore the dashboard** using filters, slicers, and interactive visuals.
